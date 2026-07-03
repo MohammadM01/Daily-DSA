@@ -1,98 +1,67 @@
 class Solution {
+    List<int[]>[] graph;
+    List<Integer> topo;
     public int findMaxPathScore(int[][] edges, boolean[] online, long k) {
         int n = online.length;
-        
-        // Build adjacency list and indegree for topological sort
-        List<List<int[]>> graph = new ArrayList<>();
+        graph = new ArrayList[n];
         int[] indegree = new int[n];
-        
         for (int i = 0; i < n; i++) {
-            graph.add(new ArrayList<>());
+            graph[i] = new ArrayList<>();
         }
-        
-        for (int[] edge : edges) {
-            int u = edge[0], v = edge[1], cost = edge[2];
-            graph.get(u).add(new int[]{v, cost});
-            indegree[v]++;
+        int high = 0;
+        for (int[] e : edges) {
+            graph[e[0]].add(new int[]{e[1], e[2]});
+            indegree[e[1]]++;
+            high = Math.max(high, e[2]);
         }
-        
-        // Get topological order
-        List<Integer> topo = new ArrayList<>();
-        Queue<Integer> queue = new LinkedList<>();
+        topo = new ArrayList<>();
+        Queue<Integer> q = new LinkedList<>();
         for (int i = 0; i < n; i++) {
             if (indegree[i] == 0) {
-                queue.offer(i);
+                q.offer(i);
             }
         }
-        
-        while (!queue.isEmpty()) {
-            int node = queue.poll();
-            topo.add(node);
-            for (int[] next : graph.get(node)) {
-                int v = next[0];
-                indegree[v]--;
-                if (indegree[v] == 0) {
-                    queue.offer(v);
+        while (!q.isEmpty()) {
+            int u = q.poll();
+            topo.add(u);
+            for (int[] e : graph[u]) {
+                if (--indegree[e[0]] == 0) {
+                    q.offer(e[0]);
                 }
             }
         }
-        
-        // Binary search on answer
-        int low = 0, high = (int)1e9;
-        int result = -1;
-        
+        int low = 0;
+        int ans = -1;
         while (low <= high) {
             int mid = low + (high - low) / 2;
-            if (canReachWithScore(edges, online, k, n, topo, mid)) {
-                result = mid;
+            if (check(mid, online, k, n)) {
+                ans = mid;
                 low = mid + 1;
             } else {
                 high = mid - 1;
             }
         }
-        
-        return result;
+        return ans;
     }
-    
-    private boolean canReachWithScore(int[][] edges, boolean[] online, long k, 
-                                      int n, List<Integer> topo, int minScore) {
-        // Build graph with only edges that have cost >= minScore
-        List<List<int[]>> graph = new ArrayList<>();
-        int[] indegree = new int[n];
-        
-        for (int i = 0; i < n; i++) {
-            graph.add(new ArrayList<>());
-        }
-        
-        for (int[] edge : edges) {
-            int u = edge[0], v = edge[1], cost = edge[2];
-            if (cost >= minScore) {
-                graph.get(u).add(new int[]{v, cost});
-                indegree[v]++;
+    boolean check(int limit, boolean[] online, long k, int n) {
+        long[] dp = new long[n];
+        Arrays.fill(dp, Long.MAX_VALUE);
+        dp[0] = 0;
+        for (int u : topo) {
+            if (dp[u] == Long.MAX_VALUE)
+                continue;
+            if (u != 0 && u != n - 1 && !online[u])
+                continue;
+            for (int[] e : graph[u]) {
+                int v = e[0];
+                int cost = e[1];
+                if (cost < limit)
+                    continue;
+                if (v != 0 && v != n - 1 && !online[v])
+                    continue;
+                dp[v] = Math.min(dp[v], dp[u] + cost);
             }
         }
-        
-        // DP to find shortest path from 0 to n-1
-        long[] dist = new long[n];
-        Arrays.fill(dist, Long.MAX_VALUE / 2);
-        dist[0] = 0;
-        
-        // Only consider nodes that are online
-        if (!online[0]) return false;
-        
-        for (int node : topo) {
-            if (!online[node] && node != 0 && node != n - 1) continue;
-            if (dist[node] == Long.MAX_VALUE / 2) continue;
-            
-            for (int[] next : graph.get(node)) {
-                int v = next[0], cost = next[1];
-                if (!online[v] && v != 0 && v != n - 1) continue;
-                if (dist[node] + cost < dist[v]) {
-                    dist[v] = dist[node] + cost;
-                }
-            }
-        }
-        
-        return dist[n - 1] <= k;
+        return dp[n - 1] <= k;
     }
 }
