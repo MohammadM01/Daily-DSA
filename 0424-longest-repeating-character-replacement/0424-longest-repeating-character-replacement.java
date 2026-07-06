@@ -1,33 +1,50 @@
 class Solution {
+
+    private int find(int[] freq) {
+        int maxCount = 0;
+
+        for (int i = 0; i < 256; i++) {
+            maxCount = Math.max(maxCount, freq[i]);
+        }
+
+        return maxCount;
+    }
+
     public int characterReplacement(String s, int k) {
+
+        int n = s.length();
+
+        int[] freq = new int[256];
+
         int low = 0;
         int res = 0;
-        HashMap<Character, Integer> map = new HashMap<>();
-        for (int high = 0; high < s.length(); high++) {
-            char ch = s.charAt(high);
-            map.put(ch, map.getOrDefault(ch, 0) + 1);
+
+        for (int high = 0; high < n; high++) {
+
+            freq[s.charAt(high)]++;
+
+            int maxCount = find(freq);
+
             int len = high - low + 1;
-            int maxFreq = 0;
-            for (int val : map.values()) {
-                maxFreq = Math.max(maxFreq, val);
-            }
-            int diff = len - maxFreq;
+
+            int diff = len - maxCount;
+
             while (diff > k) {
-                char left = s.charAt(low);
-                map.put(left, map.get(left) - 1);
-                if (map.get(left) == 0) {
-                    map.remove(left);
-                }
+
+                freq[s.charAt(low)]--;
+
                 low++;
+
+                maxCount = find(freq);
+
                 len = high - low + 1;
-                maxFreq = 0;
-                for (int val : map.values()) {
-                    maxFreq = Math.max(maxFreq, val);
-                }
-                diff = len - maxFreq;
+
+                diff = len - maxCount;
             }
+
             res = Math.max(res, high - low + 1);
         }
+
         return res;
     }
 }
