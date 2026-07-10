@@ -32,7 +32,7 @@ class Solution {
             next[l] = r;
         }
 
-        int LOG = 18;
+        int LOG = 32 - Integer.numberOfLeadingZeros(n);;
         int[][] up = new int[LOG][n];
 
         for (int i = 0; i < n; i++)
