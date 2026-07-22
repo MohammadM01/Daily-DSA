@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public List<Integer> maxActiveSectionsAfterTrade(String s, int[][] queries) {
         int n = s.length();
@@ -53,7 +51,6 @@ class Solution {
                 }
             }
         }
-
         for (int[] q : queries) {
             int l = q[0];
             int r = q[1];
@@ -62,32 +59,24 @@ class Solution {
             int left = (leftGroup == -1)
                     ? -1
                     : len[leftGroup] - (l - start[leftGroup]);
-
             int right = (rightGroup == -1)
                     ? -1
                     : r - start[rightGroup] + 1;
-
             int endGroup = (arr[r] == '1')
                     ? rightGroup
                     : rightGroup - 1;
-
             int first = leftGroup + 1;
             int last = endGroup - 1;
-
             int res = ones;
-
             if (arr[l] == '0' && arr[r] == '0' && leftGroup + 1 == rightGroup) {
 
                 res = Math.max(res, ones + left + right);
 
             } else if (first <= last) {
-
                 int k = 31 - Integer.numberOfLeadingZeros(last - first + 1);
-
                 int best = Math.max(
                         table[k][first],
                         table[k][last - (1 << k) + 1]);
-
                 res = Math.max(res, ones + best);
             }
             if (arr[l] == '0' && leftGroup + 1 <= endGroup) {
