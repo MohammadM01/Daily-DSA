@@ -1,68 +1,85 @@
 class Solution {
-    long comb(int n, int r, int lim) {
+
+    long nCr(int n, int r, int limit) {
+
         r = Math.min(r, n - r);
-        long ans = 1;
+        long res = 1;
 
         for (int i = 1; i <= r; i++) {
-            ans = ans * (n - r + i) / i;
-            if (ans > lim) return lim + 1L;
+            res = res * (n - r + i) / i;
+
+            if (res > limit)
+                return limit + 1L;
         }
 
-        return ans;
+        return res;
     }
 
-    long calc(int[] cnt, int rem, int lim) {
-        long ans = 1;
+    long countWays(int[] freq, int total, int limit) {
 
-        for (int x : cnt) {
-            if (x == 0) continue;
+        long ways = 1;
 
-            ans *= comb(rem, x, lim);
-            if (ans > lim) return lim + 1L;
+        for (int x : freq) {
 
-            rem -= x;
+            if (x == 0)
+                continue;
+
+            ways *= nCr(total, x, limit);
+
+            if (ways > limit)
+                return limit + 1L;
+
+            total -= x;
         }
 
-        return ans;
+        return ways;
     }
 
     public String smallestPalindrome(String s, int k) {
-        int[] cnt = new int[26];
 
-        for (char c : s.toCharArray())
-            cnt[c - 'a']++;
+        int[] freq = new int[26];
 
-        int n = s.length(), m = n / 2;
+        for (char ch : s.toCharArray())
+            freq[ch - 'a']++;
+
+        int n = s.length();
+        int half = n / 2;
+
         char[] ans = new char[n];
 
         for (int i = 0; i < 26; i++) {
-            if ((cnt[i] & 1) == 1)
-                ans[m] = (char) ('a' + i);
 
-            cnt[i] /= 2;
+            if ((freq[i] & 1) == 1)
+                ans[half] = (char) ('a' + i);
+
+            freq[i] /= 2;
         }
 
-        if (calc(cnt, m, k) < k)
+        if (countWays(freq, half, k) < k)
             return "";
 
-        for (int i = 0; i < m; i++) {
-            for (int c = 0; c < 26; c++) {
-                if (cnt[c] == 0) continue;
+        for (int i = 0; i < half; i++) {
 
-                cnt[c]--;
-                long cur = calc(cnt, m - i - 1, k);
+            for (int j = 0; j < 26; j++) {
 
-                if (cur >= k) {
-                    ans[i] = (char) ('a' + c);
+                if (freq[j] == 0)
+                    continue;
+
+                freq[j]--;
+
+                long ways = countWays(freq, half - i - 1, k);
+
+                if (ways >= k) {
+                    ans[i] = (char) ('a' + j);
                     break;
                 }
 
-                k -= cur;
-                cnt[c]++;
+                k -= ways;
+                freq[j]++;
             }
         }
 
-        for (int i = 0; i < m; i++)
+        for (int i = 0; i < half; i++)
             ans[n - 1 - i] = ans[i];
 
         return new String(ans);
