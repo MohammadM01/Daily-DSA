@@ -156,6 +156,7 @@
 | [0053-maximum-subarray](https://github.com/MohammadM01/Daily-DSA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/MohammadM01/Daily-DSA/tree/master/0152-maximum-product-subarray) |
 | [1301-number-of-paths-with-max-score](https://github.com/MohammadM01/Daily-DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [1510-stone-game-iv](https://github.com/MohammadM01/Daily-DSA/tree/master/1510-stone-game-iv) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MohammadM01/Daily-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MohammadM01/Daily-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/MohammadM01/Daily-DSA/tree/master/3620-network-recovery-pathways) |
@@ -172,6 +173,7 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/MohammadM01/Daily-DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1510-stone-game-iv](https://github.com/MohammadM01/Daily-DSA/tree/master/1510-stone-game-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MohammadM01/Daily-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MohammadM01/Daily-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MohammadM01/Daily-DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -231,4 +233,24 @@
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/MohammadM01/Daily-DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/MohammadM01/Daily-DSA/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/MohammadM01/Daily-DSA/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/MohammadM01/Daily-DSA/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/MohammadM01/Daily-DSA/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/MohammadM01/Daily-DSA/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
