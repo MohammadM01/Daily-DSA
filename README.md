@@ -108,6 +108,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohammadM01/Daily-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/MohammadM01/Daily-DSA/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/MohammadM01/Daily-DSA/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/MohammadM01/Daily-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MohammadM01/Daily-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MohammadM01/Daily-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -200,6 +201,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/MohammadM01/Daily-DSA/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/MohammadM01/Daily-DSA/tree/master/0234-palindrome-linked-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MohammadM01/Daily-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
