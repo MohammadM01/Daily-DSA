@@ -17,6 +17,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MohammadM01/Daily-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MohammadM01/Daily-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MohammadM01/Daily-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2029-stone-game-ix](https://github.com/MohammadM01/Daily-DSA/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/MohammadM01/Daily-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MohammadM01/Daily-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MohammadM01/Daily-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -73,6 +74,7 @@
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MohammadM01/Daily-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MohammadM01/Daily-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/MohammadM01/Daily-DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MohammadM01/Daily-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MohammadM01/Daily-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
@@ -189,6 +191,7 @@
 | [0509-fibonacci-number](https://github.com/MohammadM01/Daily-DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MohammadM01/Daily-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1510-stone-game-iv](https://github.com/MohammadM01/Daily-DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/MohammadM01/Daily-DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MohammadM01/Daily-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MohammadM01/Daily-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MohammadM01/Daily-DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -246,6 +249,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/MohammadM01/Daily-DSA/tree/master/2029-stone-game-ix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MohammadM01/Daily-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/MohammadM01/Daily-DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
@@ -256,14 +260,17 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/MohammadM01/Daily-DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/MohammadM01/Daily-DSA/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/MohammadM01/Daily-DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/MohammadM01/Daily-DSA/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/MohammadM01/Daily-DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/MohammadM01/Daily-DSA/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -272,6 +279,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/MohammadM01/Daily-DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/MohammadM01/Daily-DSA/tree/master/2029-stone-game-ix) |
 ## Ordered Set
 |  |
 | ------- |
