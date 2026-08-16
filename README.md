@@ -109,6 +109,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohammadM01/Daily-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/MohammadM01/Daily-DSA/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/MohammadM01/Daily-DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/MohammadM01/Daily-DSA/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/MohammadM01/Daily-DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -168,6 +169,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/MohammadM01/Daily-DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/MohammadM01/Daily-DSA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/MohammadM01/Daily-DSA/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/MohammadM01/Daily-DSA/tree/master/0509-fibonacci-number) |
@@ -288,4 +290,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/MohammadM01/Daily-DSA/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/MohammadM01/Daily-DSA/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/MohammadM01/Daily-DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
