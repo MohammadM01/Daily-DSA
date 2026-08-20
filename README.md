@@ -26,6 +26,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MohammadM01/Daily-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MohammadM01/Daily-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/MohammadM01/Daily-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/MohammadM01/Daily-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/MohammadM01/Daily-DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MohammadM01/Daily-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/MohammadM01/Daily-DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -248,6 +249,7 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/MohammadM01/Daily-DSA/tree/master/1260-shift-2d-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/MohammadM01/Daily-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Segment Tree
 |  |
 | ------- |
