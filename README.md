@@ -114,6 +114,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/MohammadM01/Daily-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/MohammadM01/Daily-DSA/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MohammadM01/Daily-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MohammadM01/Daily-DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MohammadM01/Daily-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MohammadM01/Daily-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
@@ -136,6 +137,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MohammadM01/Daily-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MohammadM01/Daily-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/MohammadM01/Daily-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MohammadM01/Daily-DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MohammadM01/Daily-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MohammadM01/Daily-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/MohammadM01/Daily-DSA/tree/master/3499-maximize-active-section-with-trade-i) |
