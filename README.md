@@ -288,6 +288,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/MohammadM01/Daily-DSA/tree/master/0234-palindrome-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/MohammadM01/Daily-DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |
