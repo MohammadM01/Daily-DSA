@@ -7,13 +7,9 @@ class Solution {
             if (prices[i] < min) {
                 min = prices[i];
             }
-            else if((prices[i] - min) > max){
+            if((prices[i] - min) > max){
                 max = prices[i] - min;
             }
-            // }
-            // else {
-            //     max = Math.max(max, prices[i] - min);
-            // }
         }
 
         return max;
