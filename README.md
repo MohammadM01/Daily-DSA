@@ -10,6 +10,7 @@
 | [0152-maximum-product-subarray](https://github.com/MohammadM01/Daily-DSA/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/MohammadM01/Daily-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MohammadM01/Daily-DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0724-find-pivot-index](https://github.com/MohammadM01/Daily-DSA/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/MohammadM01/Daily-DSA/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/MohammadM01/Daily-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/MohammadM01/Daily-DSA/tree/master/1260-shift-2d-grid) |
@@ -134,6 +135,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/MohammadM01/Daily-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/MohammadM01/Daily-DSA/tree/master/0724-find-pivot-index) |
 | [1872-stone-game-viii](https://github.com/MohammadM01/Daily-DSA/tree/master/1872-stone-game-viii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/MohammadM01/Daily-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/MohammadM01/Daily-DSA/tree/master/3903-smallest-stable-index-i) |
