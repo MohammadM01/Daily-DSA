@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/MohammadM01/Daily-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/MohammadM01/Daily-DSA/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/MohammadM01/Daily-DSA/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MohammadM01/Daily-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/MohammadM01/Daily-DSA/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/MohammadM01/Daily-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MohammadM01/Daily-DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -215,6 +216,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/MohammadM01/Daily-DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/MohammadM01/Daily-DSA/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MohammadM01/Daily-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/MohammadM01/Daily-DSA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/MohammadM01/Daily-DSA/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/MohammadM01/Daily-DSA/tree/master/0509-fibonacci-number) |
