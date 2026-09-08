@@ -220,6 +220,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/MohammadM01/Daily-DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/MohammadM01/Daily-DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/MohammadM01/Daily-DSA/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/MohammadM01/Daily-DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MohammadM01/Daily-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MohammadM01/Daily-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -246,6 +247,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/MohammadM01/Daily-DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/MohammadM01/Daily-DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MohammadM01/Daily-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1510-stone-game-iv](https://github.com/MohammadM01/Daily-DSA/tree/master/1510-stone-game-iv) |
@@ -366,6 +368,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/MohammadM01/Daily-DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/MohammadM01/Daily-DSA/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
