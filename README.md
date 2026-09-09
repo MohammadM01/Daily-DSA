@@ -12,6 +12,7 @@
 | [0152-maximum-product-subarray](https://github.com/MohammadM01/Daily-DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/MohammadM01/Daily-DSA/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/MohammadM01/Daily-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/MohammadM01/Daily-DSA/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MohammadM01/Daily-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/MohammadM01/Daily-DSA/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/MohammadM01/Daily-DSA/tree/master/0904-fruit-into-baskets) |
@@ -75,6 +76,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MohammadM01/Daily-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/MohammadM01/Daily-DSA/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/MohammadM01/Daily-DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0525-contiguous-array](https://github.com/MohammadM01/Daily-DSA/tree/master/0525-contiguous-array) |
 | [0904-fruit-into-baskets](https://github.com/MohammadM01/Daily-DSA/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/MohammadM01/Daily-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MohammadM01/Daily-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -140,6 +142,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/MohammadM01/Daily-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/MohammadM01/Daily-DSA/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/MohammadM01/Daily-DSA/tree/master/0724-find-pivot-index) |
 | [1872-stone-game-viii](https://github.com/MohammadM01/Daily-DSA/tree/master/1872-stone-game-viii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/MohammadM01/Daily-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
