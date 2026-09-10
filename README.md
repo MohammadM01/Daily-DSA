@@ -247,6 +247,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MohammadM01/Daily-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/MohammadM01/Daily-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/MohammadM01/Daily-DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Math
@@ -387,4 +388,12 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MohammadM01/Daily-DSA/tree/master/0022-generate-parentheses) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MohammadM01/Daily-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MohammadM01/Daily-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
