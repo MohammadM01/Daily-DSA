@@ -15,6 +15,7 @@
 | [0525-contiguous-array](https://github.com/MohammadM01/Daily-DSA/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MohammadM01/Daily-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/MohammadM01/Daily-DSA/tree/master/0724-find-pivot-index) |
+| [0835-image-overlap](https://github.com/MohammadM01/Daily-DSA/tree/master/0835-image-overlap) |
 | [0904-fruit-into-baskets](https://github.com/MohammadM01/Daily-DSA/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/MohammadM01/Daily-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/MohammadM01/Daily-DSA/tree/master/1260-shift-2d-grid) |
@@ -206,6 +207,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/MohammadM01/Daily-DSA/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/MohammadM01/Daily-DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/MohammadM01/Daily-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MohammadM01/Daily-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
