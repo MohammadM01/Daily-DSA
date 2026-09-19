@@ -280,6 +280,7 @@
 | [0509-fibonacci-number](https://github.com/MohammadM01/Daily-DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MohammadM01/Daily-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/MohammadM01/Daily-DSA/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/MohammadM01/Daily-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/MohammadM01/Daily-DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/MohammadM01/Daily-DSA/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/MohammadM01/Daily-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -428,4 +429,5 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/MohammadM01/Daily-DSA/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/MohammadM01/Daily-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
