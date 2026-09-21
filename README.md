@@ -13,6 +13,7 @@
 | [0198-house-robber](https://github.com/MohammadM01/Daily-DSA/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/MohammadM01/Daily-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MohammadM01/Daily-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/MohammadM01/Daily-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/MohammadM01/Daily-DSA/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MohammadM01/Daily-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/MohammadM01/Daily-DSA/tree/master/0724-find-pivot-index) |
@@ -78,12 +79,14 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/MohammadM01/Daily-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/MohammadM01/Daily-DSA/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MohammadM01/Daily-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/MohammadM01/Daily-DSA/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohammadM01/Daily-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MohammadM01/Daily-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/MohammadM01/Daily-DSA/tree/master/0076-minimum-window-substring) |
+| [0347-top-k-frequent-elements](https://github.com/MohammadM01/Daily-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/MohammadM01/Daily-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/MohammadM01/Daily-DSA/tree/master/0525-contiguous-array) |
 | [0904-fruit-into-baskets](https://github.com/MohammadM01/Daily-DSA/tree/master/0904-fruit-into-baskets) |
@@ -131,6 +134,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MohammadM01/Daily-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/MohammadM01/Daily-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MohammadM01/Daily-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/MohammadM01/Daily-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/MohammadM01/Daily-DSA/tree/master/1288-remove-covered-intervals) |
@@ -216,6 +220,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MohammadM01/Daily-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/MohammadM01/Daily-DSA/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MohammadM01/Daily-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MohammadM01/Daily-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/MohammadM01/Daily-DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -366,6 +371,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/MohammadM01/Daily-DSA/tree/master/0347-top-k-frequent-elements) |
 | [2029-stone-game-ix](https://github.com/MohammadM01/Daily-DSA/tree/master/2029-stone-game-ix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MohammadM01/Daily-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/MohammadM01/Daily-DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -441,4 +447,9 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MohammadM01/Daily-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/MohammadM01/Daily-DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/MohammadM01/Daily-DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
