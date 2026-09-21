@@ -1,58 +1,42 @@
 class Solution {
-
     class Pair {
         int first;
         int second;
-
-        Pair(int first, int second) {
-            this.first = first;
-            this.second = second;
+        Pair(int f, int s) {
+            this.first = f;
+            this.second = s;
         }
     }
 
     public int[] topKFrequent(int nums[], int k) {
-
-        HashMap<Integer, Integer> map = new HashMap<>();
+        HashMap <Integer,Integer> map = new HashMap<>();
+        for(int i = 0; i<nums.length; i++){
+            map.put(nums[i],map.getOrDefault(nums[i],0)+1);
+        }
         PriorityQueue<Pair> pq = new PriorityQueue<>(
-            (a, b) -> {
-                if (a.first != b.first)
-                    return a.first - b.first;
-
-                return a.second - b.second;
-            }
+            (a,b) -> a.first != b.first
+            ? a.first - b.first
+            : a.second - b.second
         );
 
-        int i, freq;
-        Pair curr;
-        int res[];
-
-
-        for (i = 0; i < nums.length; i++) {
-            map.put(nums[i], map.getOrDefault(nums[i], 0) + 1);
-        }
-
-
-        for (int x : map.keySet()) {
-
-            freq = map.get(x);
-            curr = new Pair(freq, x);
-
-            if (pq.size() < k) {
-                pq.add(curr);
-            }
-            else if (curr.first > pq.peek().first) {
+        for(int i : map.keySet()){
+            int freq = map.get(i);
+            Pair current = new Pair(freq,i);
+            if(pq.size()<k)
+                pq.add(current);
+            else{
+                if(current.first<pq.peek().first)
+                    continue;
                 pq.poll();
-                pq.add(curr);
+                pq.add(current);
             }
         }
 
-        res = new int[k];
-
-        for (i = 0; i < k; i++) {
-            res[i] = pq.peek().second;
+        int res[]=new int[k];
+        for(int i = 0; i<k;i++){
+            res[i]=pq.peek().second;
             pq.poll();
         }
-
         return res;
     }
 }
