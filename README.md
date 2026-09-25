@@ -96,6 +96,7 @@
 | [0525-contiguous-array](https://github.com/MohammadM01/Daily-DSA/tree/master/0525-contiguous-array) |
 | [0692-top-k-frequent-words](https://github.com/MohammadM01/Daily-DSA/tree/master/0692-top-k-frequent-words) |
 | [0904-fruit-into-baskets](https://github.com/MohammadM01/Daily-DSA/tree/master/0904-fruit-into-baskets) |
+| [1096-brace-expansion-ii](https://github.com/MohammadM01/Daily-DSA/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/MohammadM01/Daily-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MohammadM01/Daily-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/MohammadM01/Daily-DSA/tree/master/1386-cinema-seat-allocation) |
@@ -145,6 +146,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/MohammadM01/Daily-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/MohammadM01/Daily-DSA/tree/master/0692-top-k-frequent-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/MohammadM01/Daily-DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/MohammadM01/Daily-DSA/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/MohammadM01/Daily-DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/MohammadM01/Daily-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MohammadM01/Daily-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -196,6 +198,7 @@
 | [0692-top-k-frequent-words](https://github.com/MohammadM01/Daily-DSA/tree/master/0692-top-k-frequent-words) |
 | [0940-distinct-subsequences-ii](https://github.com/MohammadM01/Daily-DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MohammadM01/Daily-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/MohammadM01/Daily-DSA/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MohammadM01/Daily-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MohammadM01/Daily-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MohammadM01/Daily-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -214,6 +217,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/MohammadM01/Daily-DSA/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/MohammadM01/Daily-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/MohammadM01/Daily-DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MohammadM01/Daily-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -357,6 +361,7 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/MohammadM01/Daily-DSA/tree/master/0234-palindrome-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MohammadM01/Daily-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/MohammadM01/Daily-DSA/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -442,6 +447,7 @@
 | [0022-generate-parentheses](https://github.com/MohammadM01/Daily-DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/MohammadM01/Daily-DSA/tree/master/0039-combination-sum) |
 | [0131-palindrome-partitioning](https://github.com/MohammadM01/Daily-DSA/tree/master/0131-palindrome-partitioning) |
+| [1096-brace-expansion-ii](https://github.com/MohammadM01/Daily-DSA/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
