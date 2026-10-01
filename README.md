@@ -191,6 +191,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohammadM01/Daily-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MohammadM01/Daily-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/MohammadM01/Daily-DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/MohammadM01/Daily-DSA/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/MohammadM01/Daily-DSA/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/MohammadM01/Daily-DSA/tree/master/0115-distinct-subsequences) |
@@ -365,6 +366,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MohammadM01/Daily-DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/MohammadM01/Daily-DSA/tree/master/0234-palindrome-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MohammadM01/Daily-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/MohammadM01/Daily-DSA/tree/master/1096-brace-expansion-ii) |
@@ -460,6 +462,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MohammadM01/Daily-DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/MohammadM01/Daily-DSA/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/MohammadM01/Daily-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MohammadM01/Daily-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
