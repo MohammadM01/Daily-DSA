@@ -1,24 +1,25 @@
 class Solution {
-    List<String> ans;
     public List<String> generateParenthesis(int n) {
-        ans = new ArrayList<>();
-        generate(n, 0, 0, new StringBuilder());
-        return ans;
+        List<String> res = new ArrayList<>();
+        StringBuilder dairy = new StringBuilder();
+        fun(n, 0, 0, dairy, res);
+        return res;
     }
-    void generate(int n, int open, int close, StringBuilder sb) {
+    void fun(int n, int open, int close,
+             StringBuilder dairy, List<String> res) {
         if (open == n && close == n) {
-            ans.add(sb.toString());
+            res.add(dairy.toString());
             return;
         }
         if (open < n) {
-            sb.append('(');
-            generate(n, open + 1, close, sb);
-            sb.deleteCharAt(sb.length() - 1);
+            dairy.append('(');
+            fun(n, open + 1, close, dairy, res);
+            dairy.deleteCharAt(dairy.length() - 1);
         }
         if (close < open) {
-            sb.append(')');
-            generate(n, open, close + 1, sb);
-            sb.deleteCharAt(sb.length() - 1);
+            dairy.append(')');
+            fun(n, open, close + 1, dairy, res);
+            dairy.deleteCharAt(dairy.length() - 1);
         }
     }
 }
