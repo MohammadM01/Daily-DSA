@@ -200,6 +200,7 @@
 | [0115-distinct-subsequences](https://github.com/MohammadM01/Daily-DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/MohammadM01/Daily-DSA/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/MohammadM01/Daily-DSA/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/MohammadM01/Daily-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/MohammadM01/Daily-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/MohammadM01/Daily-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/MohammadM01/Daily-DSA/tree/master/0692-top-k-frequent-words) |
@@ -230,6 +231,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/MohammadM01/Daily-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/MohammadM01/Daily-DSA/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/MohammadM01/Daily-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/MohammadM01/Daily-DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -470,6 +472,7 @@
 | [0022-generate-parentheses](https://github.com/MohammadM01/Daily-DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/MohammadM01/Daily-DSA/tree/master/0039-combination-sum) |
 | [0131-palindrome-partitioning](https://github.com/MohammadM01/Daily-DSA/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/MohammadM01/Daily-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/MohammadM01/Daily-DSA/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
