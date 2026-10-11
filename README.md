@@ -38,6 +38,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/MohammadM01/Daily-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/MohammadM01/Daily-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/MohammadM01/Daily-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/MohammadM01/Daily-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MohammadM01/Daily-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MohammadM01/Daily-DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MohammadM01/Daily-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -122,6 +123,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/MohammadM01/Daily-DSA/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/MohammadM01/Daily-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/MohammadM01/Daily-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3483-unique-3-digit-even-numbers](https://github.com/MohammadM01/Daily-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/MohammadM01/Daily-DSA/tree/master/3499-maximize-active-section-with-trade-i) |
