@@ -21,6 +21,7 @@
 | [0835-image-overlap](https://github.com/MohammadM01/Daily-DSA/tree/master/0835-image-overlap) |
 | [0904-fruit-into-baskets](https://github.com/MohammadM01/Daily-DSA/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/MohammadM01/Daily-DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1254-number-of-closed-islands](https://github.com/MohammadM01/Daily-DSA/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/MohammadM01/Daily-DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/MohammadM01/Daily-DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/MohammadM01/Daily-DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -248,6 +249,7 @@
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/MohammadM01/Daily-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/MohammadM01/Daily-DSA/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/MohammadM01/Daily-DSA/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/MohammadM01/Daily-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/MohammadM01/Daily-DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MohammadM01/Daily-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -256,6 +258,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/MohammadM01/Daily-DSA/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/MohammadM01/Daily-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/MohammadM01/Daily-DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MohammadM01/Daily-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -276,6 +279,7 @@
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/MohammadM01/Daily-DSA/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/MohammadM01/Daily-DSA/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/MohammadM01/Daily-DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/MohammadM01/Daily-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MohammadM01/Daily-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -330,6 +334,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/MohammadM01/Daily-DSA/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MohammadM01/Daily-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/MohammadM01/Daily-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/MohammadM01/Daily-DSA/tree/master/2685-count-the-number-of-complete-components) |
