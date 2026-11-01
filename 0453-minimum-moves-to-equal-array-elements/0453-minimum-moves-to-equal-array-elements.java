@@ -1,7 +1,13 @@
 class Solution {
     public int minMoves(int[] nums) {
-        int lo = Arrays.stream(nums).min().getAsInt(), moves = 0;
-        for (int x : nums) moves += x - lo;
-        return moves;
+        int min = Integer.MAX_VALUE;
+        for (int x : nums) {
+            min = Math.min(min, x);
+        }
+        long moves = 0;
+        for (int x : nums) {
+            moves += (long) x - min;
+        }
+        return (int) moves;
     }
 }
