@@ -11,7 +11,7 @@ class Solution {
         int lo = 0, hi = a.length - 1;
         while (true) {
             int pivot = a[lo + RNG.nextInt(hi - lo + 1)];
-            int lt = lo, i = lo, gt = hi;  // a[lo..lt) < pivot, a[lt..i) == pivot, a(gt..hi] > pivot
+            int lt = lo, i = lo, gt = hi; 
             while (i <= gt) {
                 if (a[i] < pivot) swap(a, lt++, i++);
                 else if (a[i] > pivot) swap(a, i, gt--);
