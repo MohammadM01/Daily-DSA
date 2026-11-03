@@ -1,51 +1,39 @@
 class Solution {
     public int minimizeConcatenatedLength(String[] words) {
-        int n = words.length;
-        int[][] dp = new int[26][26];
+        HashMap<String, Integer> map = new HashMap<>();
 
-        for (int[] row : dp)
-            Arrays.fill(row, Integer.MAX_VALUE);
+        map.put("" + words[0].charAt(0) + words[0].charAt(words[0].length() - 1),
+                words[0].length());
 
-        String s = words[0];
-
-        int first = s.charAt(0) - 'a';
-        int last = s.charAt(s.length() - 1) - 'a';
-
-        dp[first][last] = s.length();
-
-        for (int i = 1; i < n; i++) {
+        for (int i = 1; i < words.length; i++) {
             String word = words[i];
 
-            int x = word.charAt(0) - 'a';
-            int y = word.charAt(word.length() - 1) - 'a';
+            char s1 = word.charAt(0);
+            char e1 = word.charAt(word.length() - 1);
+            int l1 = word.length();
 
-            int[][] next = new int[26][26];
+            HashMap<String, Integer> next = new HashMap<>();
 
-            for (int[] row : next)
-                Arrays.fill(row, Integer.MAX_VALUE);
+            for (String key : map.keySet()) {
+                char s2 = key.charAt(0);
+                char e2 = key.charAt(1);
+                int l2 = map.get(key);
+                String key1 = "" + s1 + e2;
+                int a = l1 + l2 - (e1 == s2 ? 1 : 0);
+                next.put(key1, Math.min(next.getOrDefault(key1, Integer.MAX_VALUE), a));
+                String key2 = "" + s2 + e1;
+                int b = l2 + l1 - (e2 == s1 ? 1 : 0);
 
-            for (int j = 0; j < 26; j++) {
-                for (int k = 0; k < 26; k++) {
-                    if (dp[j][k] == Integer.MAX_VALUE)
-                        continue;
-                    int len = dp[j][k] + word.length();
-                    int a = len - (k == x ? 1 : 0);
-                    next[j][y] = Math.min(next[j][y], a);
-                    int b = len - (y == j ? 1 : 0);
-                    next[x][k] = Math.min(next[x][k], b);
-                }
+                next.put(key2, Math.min(next.getOrDefault(key2, Integer.MAX_VALUE), b));
             }
 
-            dp = next;
+            map = next;
         }
 
         int ans = Integer.MAX_VALUE;
 
-        for (int i = 0; i < 26; i++) {
-            for (int j = 0; j < 26; j++) {
-                ans = Math.min(ans, dp[i][j]);
-            }
-        }
+        for (int val : map.values())
+            ans = Math.min(ans, val);
 
         return ans;
     }
