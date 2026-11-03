@@ -41,6 +41,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/MohammadM01/Daily-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/MohammadM01/Daily-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/MohammadM01/Daily-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2746-decremental-string-concatenation](https://github.com/MohammadM01/Daily-DSA/tree/master/2746-decremental-string-concatenation) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/MohammadM01/Daily-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MohammadM01/Daily-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MohammadM01/Daily-DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -241,6 +242,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/MohammadM01/Daily-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2409-count-days-spent-together](https://github.com/MohammadM01/Daily-DSA/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MohammadM01/Daily-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2746-decremental-string-concatenation](https://github.com/MohammadM01/Daily-DSA/tree/master/2746-decremental-string-concatenation) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MohammadM01/Daily-DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MohammadM01/Daily-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MohammadM01/Daily-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -338,6 +340,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/MohammadM01/Daily-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/MohammadM01/Daily-DSA/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MohammadM01/Daily-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2746-decremental-string-concatenation](https://github.com/MohammadM01/Daily-DSA/tree/master/2746-decremental-string-concatenation) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MohammadM01/Daily-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/MohammadM01/Daily-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/MohammadM01/Daily-DSA/tree/master/3524-find-x-value-of-array-i) |
