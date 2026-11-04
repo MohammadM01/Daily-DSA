@@ -1,70 +1,79 @@
-import java.util.*;
-
 class Solution {
-    int m;
-    long[] bc, bs;
-
-    void upd(int i, int c, long v) {
-        for (; i <= m; i += i & -i) { bc[i] += c; bs[i] += v; }
-    }
+    int size;
+    long[] cntTree;
+    long[] sumTree;
 
     public long minOperations(int[] nums, int x, int k) {
         int n = nums.length;
         int[] sorted = nums.clone();
         Arrays.sort(sorted);
-        int[] vals = new int[n + 1];
-        m = 0;
-        for (int i = 0; i < n; i++)
-            if (i == 0 || sorted[i] != sorted[i - 1]) vals[++m] = sorted[i];
-
-        int[] rk = new int[n];
-        for (int i = 0; i < n; i++) rk[i] = Arrays.binarySearch(vals, 1, m + 1, nums[i]);
-
-        bc = new long[m + 1];
-        bs = new long[m + 1];
-        int[] cntAt = new int[m + 1];
-        int LOG = 32 - Integer.numberOfLeadingZeros(m);
-        int need = (x + 1) / 2;
-        long tot = 0;
-
-        for (int i = 0; i < x; i++) {
-            upd(rk[i], 1, nums[i]); cntAt[rk[i]]++; tot += nums[i];
+        int m = 0;
+        for (int i = 0; i < n; i++) {
+            if (m == 0 || sorted[m - 1] != sorted[i]) {
+                sorted[m++] = sorted[i];
+            }
         }
-
-        long[] cost = new long[n - x + 1];
-        for (int s = 0; s + x <= n; s++) {
-            int pos = 0, kk = need;
-            long accC = 0, accS = 0;
-            for (int b = LOG; b >= 0; b--) {
-                int np = pos + (1 << b);
-                if (np <= m && bc[np] < kk) {
-                    pos = np; kk -= bc[np]; accC += bc[np]; accS += bs[np];
+        int[] vals = Arrays.copyOf(sorted, m);
+        int[] rank = new int[n];
+        for (int i = 0; i < n; i++) {
+            rank[i] = Arrays.binarySearch(vals, nums[i]) + 1;
+        }
+        size = m;
+        cntTree = new long[m + 1];
+        sumTree = new long[m + 1];
+        int windows = n - x + 1;
+        long[] cost = new long[windows];
+        int half = (x + 1) / 2;
+        long total = 0;
+        for (int i = 0; i < n; i++) {
+            add(rank[i], 1, nums[i]);
+            total += nums[i];
+            if (i >= x) {
+                add(rank[i - x], -1, -nums[i - x]);
+                total -= nums[i - x];
+            }
+            if (i >= x - 1) {
+                int pos = 0;
+                long cntBelow = 0;
+                long sumBelow = 0;
+                int step = Integer.highestOneBit(m);
+                while (step > 0) {
+                    int nxt = pos + step;
+                    if (nxt <= m && cntBelow + cntTree[nxt] < half) {
+                        pos = nxt;
+                        cntBelow += cntTree[nxt];
+                        sumBelow += sumTree[nxt];
+                    }
+                    step >>= 1;
                 }
-            }
-            int p = pos + 1;
-            long med = vals[p];
-            long cntLE = accC + cntAt[p];
-            long sumLE = accS + cntAt[p] * med;
-            cost[s] = med * cntLE - sumLE + (tot - sumLE) - med * (x - cntLE);
-
-            upd(rk[s], -1, -nums[s]); cntAt[rk[s]]--; tot -= nums[s];
-            if (s + x < n) {
-                upd(rk[s + x], 1, nums[s + x]); cntAt[rk[s + x]]++; tot += nums[s + x];
+                long med = vals[pos];
+                long leftCnt = half;
+                long leftSum = sumBelow + (half - cntBelow) * med;
+                long rightCnt = x - leftCnt;
+                long rightSum = total - leftSum;
+                cost[i - x + 1] = med * leftCnt - leftSum + rightSum - med * rightCnt;
             }
         }
-
-        long INF = Long.MAX_VALUE / 4;
+        long inf = Long.MAX_VALUE / 4;
         long[] prev = new long[n + 1];
+        long[] cur = new long[n + 1];
         for (int j = 1; j <= k; j++) {
-            long[] cur = new long[n + 1];
-            Arrays.fill(cur, INF);
-            for (int i = x; i <= n; i++) {
-                long best = cur[i - 1];
-                if (prev[i - x] < INF) best = Math.min(best, prev[i - x] + cost[i - x]);
-                cur[i] = best;
+            Arrays.fill(cur, 0, n + 1, inf);
+            for (int i = j * x; i <= n; i++) {
+                long take = (j == 1 ? 0 : prev[i - x]) + cost[i - x];
+                cur[i] = Math.min(cur[i - 1], take);
             }
+            long[] tmp = prev;
             prev = cur;
+            cur = tmp;
         }
         return prev[n];
+    }
+
+    void add(int i, int c, long v) {
+        for (; i <= size; i += i & -i) {
+            cntTree[i] += c;
+            sumTree[i] += v;
+        }
     }
 }
