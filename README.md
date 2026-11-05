@@ -28,6 +28,7 @@
 | [1288-remove-covered-intervals](https://github.com/MohammadM01/Daily-DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/MohammadM01/Daily-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/MohammadM01/Daily-DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/MohammadM01/Daily-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/MohammadM01/Daily-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MohammadM01/Daily-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MohammadM01/Daily-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -83,6 +84,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MohammadM01/Daily-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/MohammadM01/Daily-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/MohammadM01/Daily-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MohammadM01/Daily-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MohammadM01/Daily-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/MohammadM01/Daily-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -174,6 +176,7 @@
 | [1096-brace-expansion-ii](https://github.com/MohammadM01/Daily-DSA/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/MohammadM01/Daily-DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/MohammadM01/Daily-DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/MohammadM01/Daily-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MohammadM01/Daily-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MohammadM01/Daily-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MohammadM01/Daily-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -408,6 +411,7 @@
 | [0125-valid-palindrome](https://github.com/MohammadM01/Daily-DSA/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/MohammadM01/Daily-DSA/tree/master/0234-palindrome-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/MohammadM01/Daily-DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/MohammadM01/Daily-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MohammadM01/Daily-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MohammadM01/Daily-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/MohammadM01/Daily-DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
