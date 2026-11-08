@@ -592,4 +592,8 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/MohammadM01/Daily-DSA/tree/master/0692-top-k-frequent-words) |
+## Database
+|  |
+| ------- |
+| [1280-students-and-examinations](https://github.com/MohammadM01/Daily-DSA/tree/master/1280-students-and-examinations) |
 <!---LeetCode Topics End-->
