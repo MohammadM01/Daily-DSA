@@ -611,6 +611,7 @@
 |  |
 | ------- |
 | [1280-students-and-examinations](https://github.com/MohammadM01/Daily-DSA/tree/master/1280-students-and-examinations) |
+| [1873-calculate-special-bonus](https://github.com/MohammadM01/Daily-DSA/tree/master/1873-calculate-special-bonus) |
 ## Queue
 |  |
 | ------- |
