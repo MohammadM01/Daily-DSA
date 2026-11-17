@@ -267,6 +267,7 @@
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MohammadM01/Daily-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2746-decremental-string-concatenation](https://github.com/MohammadM01/Daily-DSA/tree/master/2746-decremental-string-concatenation) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MohammadM01/Daily-DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/MohammadM01/Daily-DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MohammadM01/Daily-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MohammadM01/Daily-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/MohammadM01/Daily-DSA/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -370,6 +371,7 @@
 | [1872-stone-game-viii](https://github.com/MohammadM01/Daily-DSA/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MohammadM01/Daily-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2746-decremental-string-concatenation](https://github.com/MohammadM01/Daily-DSA/tree/master/2746-decremental-string-concatenation) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/MohammadM01/Daily-DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MohammadM01/Daily-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/MohammadM01/Daily-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/MohammadM01/Daily-DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -438,6 +440,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/MohammadM01/Daily-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/MohammadM01/Daily-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MohammadM01/Daily-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/MohammadM01/Daily-DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MohammadM01/Daily-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/MohammadM01/Daily-DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Bit Manipulation
