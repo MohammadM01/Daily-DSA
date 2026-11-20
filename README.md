@@ -17,6 +17,7 @@
 | [0347-top-k-frequent-elements](https://github.com/MohammadM01/Daily-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/MohammadM01/Daily-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MohammadM01/Daily-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0485-max-consecutive-ones](https://github.com/MohammadM01/Daily-DSA/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/MohammadM01/Daily-DSA/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MohammadM01/Daily-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/MohammadM01/Daily-DSA/tree/master/0692-top-k-frequent-words) |
