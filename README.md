@@ -33,6 +33,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/MohammadM01/Daily-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/MohammadM01/Daily-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MohammadM01/Daily-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/MohammadM01/Daily-DSA/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MohammadM01/Daily-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/MohammadM01/Daily-DSA/tree/master/1563-stone-game-v) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/MohammadM01/Daily-DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
