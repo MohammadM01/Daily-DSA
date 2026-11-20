@@ -41,6 +41,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MohammadM01/Daily-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/MohammadM01/Daily-DSA/tree/master/1872-stone-game-viii) |
 | [1882-process-tasks-using-servers](https://github.com/MohammadM01/Daily-DSA/tree/master/1882-process-tasks-using-servers) |
+| [1929-concatenation-of-array](https://github.com/MohammadM01/Daily-DSA/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MohammadM01/Daily-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2029-stone-game-ix](https://github.com/MohammadM01/Daily-DSA/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/MohammadM01/Daily-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -495,6 +496,7 @@
 | ------- |
 | [1260-shift-2d-grid](https://github.com/MohammadM01/Daily-DSA/tree/master/1260-shift-2d-grid) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/MohammadM01/Daily-DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [1929-concatenation-of-array](https://github.com/MohammadM01/Daily-DSA/tree/master/1929-concatenation-of-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/MohammadM01/Daily-DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MohammadM01/Daily-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Segment Tree
