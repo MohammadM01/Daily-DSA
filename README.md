@@ -14,6 +14,7 @@
 | [0198-house-robber](https://github.com/MohammadM01/Daily-DSA/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/MohammadM01/Daily-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MohammadM01/Daily-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0312-burst-balloons](https://github.com/MohammadM01/Daily-DSA/tree/master/0312-burst-balloons) |
 | [0347-top-k-frequent-elements](https://github.com/MohammadM01/Daily-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/MohammadM01/Daily-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MohammadM01/Daily-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -375,6 +376,7 @@
 | [0131-palindrome-partitioning](https://github.com/MohammadM01/Daily-DSA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/MohammadM01/Daily-DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/MohammadM01/Daily-DSA/tree/master/0198-house-robber) |
+| [0312-burst-balloons](https://github.com/MohammadM01/Daily-DSA/tree/master/0312-burst-balloons) |
 | [0509-fibonacci-number](https://github.com/MohammadM01/Daily-DSA/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/MohammadM01/Daily-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/MohammadM01/Daily-DSA/tree/master/0940-distinct-subsequences-ii) |
