@@ -3,13 +3,10 @@ class Solution {
         int n = nums.length;
         int[] arr = new int[n + 2];
         int[][] dp = new int[n + 2][n + 2];
-
         arr[0] = arr[n + 1] = 1;
-
         for (int i = 0; i < n; i++) {
             arr[i + 1] = nums[i];
         }
-
         return solve(1, n, arr, dp);
     }
 
