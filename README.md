@@ -33,6 +33,7 @@
 | [1288-remove-covered-intervals](https://github.com/MohammadM01/Daily-DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/MohammadM01/Daily-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/MohammadM01/Daily-DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/MohammadM01/Daily-DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/MohammadM01/Daily-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/MohammadM01/Daily-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MohammadM01/Daily-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -238,6 +239,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/MohammadM01/Daily-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/MohammadM01/Daily-DSA/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/MohammadM01/Daily-DSA/tree/master/0724-find-pivot-index) |
+| [1352-product-of-the-last-k-numbers](https://github.com/MohammadM01/Daily-DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/MohammadM01/Daily-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MohammadM01/Daily-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/MohammadM01/Daily-DSA/tree/master/1872-stone-game-viii) |
@@ -422,6 +424,7 @@
 | [0509-fibonacci-number](https://github.com/MohammadM01/Daily-DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MohammadM01/Daily-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/MohammadM01/Daily-DSA/tree/master/0836-rectangle-overlap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/MohammadM01/Daily-DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/MohammadM01/Daily-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/MohammadM01/Daily-DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/MohammadM01/Daily-DSA/tree/master/1563-stone-game-v) |
@@ -648,4 +651,12 @@
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/MohammadM01/Daily-DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/MohammadM01/Daily-DSA/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/MohammadM01/Daily-DSA/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
